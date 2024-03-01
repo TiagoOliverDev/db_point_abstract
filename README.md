@@ -2,7 +2,7 @@
 Db para testes
 
 #### Estrutura do DB
-![Estrutura do DB](diagramaER.pdf)
+![Estrutura do DB](diagramaER_page-0001.jpg)
 
 # steps for using
 

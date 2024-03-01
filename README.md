@@ -1,6 +1,9 @@
 # point_db
 Db para testes
 
+#### Estrutura do DB
+![Estrutura do DB](diagramaER.pdf)
+
 # steps for using
 
 # step 1 - clone repo

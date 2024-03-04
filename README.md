@@ -2,7 +2,7 @@
 Db para testes
 
 #### Estrutura do DB
-![Estrutura do DB](diagramaER_page-0001.jpg)
+![Estrutura do DB](https://github.com/TiagoOliverDev/db_point_abstract/blob/main/images/diagramaER_page-0001.jpg.jpg)
 
 # steps for using
 
